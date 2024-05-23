@@ -188,3 +188,44 @@ h3{
     justify-content: center;
     margin-top: 0px;
 }
+
+/* Responsive Styles */
+@media only screen and (max-width: 600px) {
+    .team-member1 {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .team-member2 {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .team-member3 {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .team-member4 {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .team-member5 {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .team-member6 {
+        width: 90%;
+    }
+} 
+
+
+
+
